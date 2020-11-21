@@ -1,4 +1,4 @@
-### Hello there, I'm Walrick Yanke, Welcome 👋
+## Hello there, I'm Walrick Yanke, Welcome 👋
 
 <p align="center">
   <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  width="300" height="280"/>
@@ -13,10 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[<img align="left" alt="wyanke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/walrick-yanke-8a462a1a1/]
 
 ### Languages and Tools:
 
@@ -27,5 +24,5 @@
 <br />
 <br />
 
-<h1>GitHub Stats</h1>
+### GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=wyanke&amp;show_icons=true" alt="GitHub Stats"></p>
