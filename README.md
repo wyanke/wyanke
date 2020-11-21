@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="wyanke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/walrick-yanke-8a462a1a1/]
+[<img align="left" alt="https://www.linkedin.com/in/walrick-yanke-8a462a1a1/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
